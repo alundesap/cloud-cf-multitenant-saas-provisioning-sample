@@ -141,7 +141,7 @@ In this section, we'll cover the steps that you need to do so that your applicat
 
     Example
     ```
-    cf cs saas-registry application mt-hw-app-saas-registry -c mtconfig/config.json
+    cf cs saas-registry application mt-hw-app-saas-registry -c mt_config/config.json
     ```
 
 2.  Bind the app to the SaaS registry service instance by executing this command:
