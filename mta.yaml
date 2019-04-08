@@ -36,7 +36,7 @@ modules:
           url: '~{node_app_url}'
           forwardAuthToken: true
    properties:
-      TENANT_HOST_PATTERN: "^(.*)-mt-hw-ar-app.cfapps.eu10.hana.ondemand.com"
+      TENANT_HOST_PATTERN: "^(.*)-mt-hw-ar-app.cfapps.us10.hana.ondemand.com"
 
 
 resources:
