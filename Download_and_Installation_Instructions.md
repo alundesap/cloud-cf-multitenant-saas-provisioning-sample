@@ -196,6 +196,7 @@ For the current SaaS application, when you hit the URL you will not be able to a
 
 ```
 cf map-route mt-hw-ar-app cfapps.us10.hana.ondemand.com --hostname client1-multi-mt-hw-ar-app
+cf map-route mt-hw-ar-app multi.sap-a-team.com --hostname client1-multi-mt-hw-ar-app
 ```
 
 ![Step Image](Readme_resources/images/image_6-3_App_Not_Found.png)
